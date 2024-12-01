@@ -1,5 +1,3 @@
-# n8n - Workflow: Entra (Microsoft Azure AD) to Zammad Synchronization
-
 ## Description
 
 This workflow facilitates seamless synchronization between Entra (Microsoft Azure AD) and Zammad. It automates the following processes:
