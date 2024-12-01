@@ -1,6 +1,6 @@
 ## Description
 
-This workflow facilitates seamless synchronization between Entra (Microsoft Azure AD) and Zammad. It automates the following processes:
+This workflow facilitates seamless synchronization between Entra Contacts (Microsoft Azure AD) and Zammad. It automates the following processes:
 
 1. **Fetch Entra Contacts**
 2. **Create Universal User Object**: Extracts key user information, such as email, phone, and name, and formats it for Zammad compatibility.
