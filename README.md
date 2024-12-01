@@ -1,3 +1,5 @@
+# Sync Entra Contacts to Zammad-User
+
 ## Description
 
 This workflow facilitates seamless synchronization between Entra Contacts (Microsoft Azure AD) and Zammad. It automates the following processes:
